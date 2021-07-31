@@ -1,0 +1,5 @@
+{
+    "watchFiles": ["dist/**/*.js", "tests/**/*.spec.mjs"],
+    "spec": "tests/**/*.spec.mjs",
+    "reporter": "min"
+}
